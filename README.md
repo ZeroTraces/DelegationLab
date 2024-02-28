@@ -7,7 +7,7 @@
 This project was created to demonstrate the three types of kerberos delegations. Kerberos Unconstrained Delegations(KUD), Kerberos Constrained Delegation(KCD) and Resource Based Constrained Delegation(RBCD). The lab is going to do the following.
 
 ## Provisoning the Infrastructure in AWS
- 
+  
 - Create DelegationLab-vpc
 - Create Public and Private Subnet
 - Create Internet Gateway and attach it to Public Subnet in VPC
